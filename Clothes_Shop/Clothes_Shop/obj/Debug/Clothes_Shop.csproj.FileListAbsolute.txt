@@ -1,0 +1,15 @@
+C:\Users\KATANA\Desktop\Clothes_Shop\Clothes_Shop\bin\Debug\Database1.mdf
+C:\Users\KATANA\Desktop\Clothes_Shop\Clothes_Shop\bin\Debug\Database1_log.ldf
+C:\Users\KATANA\Desktop\Clothes_Shop\Clothes_Shop\bin\Debug\Clothes_Shop.exe.config
+C:\Users\KATANA\Desktop\Clothes_Shop\Clothes_Shop\bin\Debug\Clothes_Shop.exe
+C:\Users\KATANA\Desktop\Clothes_Shop\Clothes_Shop\bin\Debug\Clothes_Shop.pdb
+C:\Users\KATANA\Desktop\Clothes_Shop\Clothes_Shop\obj\Debug\Clothes_Shop.csproj.AssemblyReference.cache
+C:\Users\KATANA\Desktop\Clothes_Shop\Clothes_Shop\obj\Debug\Clothes_Shop.Form1.resources
+C:\Users\KATANA\Desktop\Clothes_Shop\Clothes_Shop\obj\Debug\Clothes_Shop.Form2.resources
+C:\Users\KATANA\Desktop\Clothes_Shop\Clothes_Shop\obj\Debug\Clothes_Shop.Form3.resources
+C:\Users\KATANA\Desktop\Clothes_Shop\Clothes_Shop\obj\Debug\Clothes_Shop.Form4.resources
+C:\Users\KATANA\Desktop\Clothes_Shop\Clothes_Shop\obj\Debug\Clothes_Shop.Properties.Resources.resources
+C:\Users\KATANA\Desktop\Clothes_Shop\Clothes_Shop\obj\Debug\Clothes_Shop.csproj.GenerateResource.cache
+C:\Users\KATANA\Desktop\Clothes_Shop\Clothes_Shop\obj\Debug\Clothes_Shop.csproj.CoreCompileInputs.cache
+C:\Users\KATANA\Desktop\Clothes_Shop\Clothes_Shop\obj\Debug\Clothes_Shop.exe
+C:\Users\KATANA\Desktop\Clothes_Shop\Clothes_Shop\obj\Debug\Clothes_Shop.pdb
